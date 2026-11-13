@@ -22,7 +22,9 @@ The framework contains:
 ## Quantitative Results
 
 RCSS is evaluated on five underwater image enhancement benchmarks: LSUI, EUVP-Scenes, UFO-120, UIEB-Challenge, and U45.
-
+<p align="center">
+  <img src="./compare.png" width="95%">
+</p>
 
 
 For a 256 × 256 input, the model contains **13.804 M parameters** and requires **21.549 G FLOPs**.
